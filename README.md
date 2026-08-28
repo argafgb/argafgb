@@ -10,7 +10,6 @@
 
 ### 🐉 STREAK & CONTRIBUTIONS TRACKER
 
-<!-- Disusun berjejer ke samping tanpa tabel agar aman -->
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" width="70" alt="Baby Dragon" />
 <img src="https://streak-stats.demolab.com/?user=argafgb&theme=radical&hide_border=true" alt="GitHub Streak" />
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="100" alt="Big Dragon" />
@@ -25,8 +24,10 @@
 
 ### 📊 GITHUB STATISTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=argafgb&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argafgb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+<!-- Shields.io Badges: 100% Aman dan Anti-Blokir -->
+<img src="https://img.shields.io/github/followers/argafgb?label=Followers&style=for-the-badge&color=D946EF&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/argafgb?label=Stars&style=for-the-badge&color=D946EF&logo=github" alt="Stars" />
+<img src="https://img.shields.io/github/repos/argafgb?label=Repositories&style=for-the-badge&color=D946EF&logo=github" alt="Repos" />
 
 </div>
 
