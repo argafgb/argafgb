@@ -17,8 +17,8 @@
 <table>
   <tr>
     <td align="center">
-      <!-- Ganti URL ini dengan link gambar naga kecil yang sudah kamu upload ke GitHub -->
-      <img src="https://raw.githubusercontent.com/argafgb/argafgb/main/naga-kecil.png" width="120" alt="Baby Dragon" />
+      <!-- Gambar Charmander (Langsung Aktif) -->
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" width="70" alt="Baby Dragon" />
       <br>
       <b>LVL 85 - Fledgling Lore-Drake</b>
     </td>
@@ -26,8 +26,8 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=argafgb&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
     <td align="center">
-      <!-- Ganti URL ini dengan link gambar naga besar yang sudah kamu upload ke GitHub -->
-      <img src="https://raw.githubusercontent.com/argafgb/argafgb/main/naga-besar.png" width="150" alt="Big Dragon" />
+      <!-- Gambar Charizard (Langsung Aktif) -->
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="110" alt="Big Dragon" />
       <br>
       <b>LVL 99 - Primordial Codex-Wyrm</b>
     </td>
