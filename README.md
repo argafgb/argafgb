@@ -1,10 +1,10 @@
 <div align="center">
 
-# ⚡ arga | argafgb // WEB DEVELOPER
-### Architecting the Future • Specializing in Backend Solutions
+# ⚡ arga | argafgb // FRONTEND DEVELOPER
+### Crafting Interactive User Experiences • Specializing in Frontend Solutions
 
 <!-- Animasi Teks Berjalan -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D946EF&center=true&vCenter=true&width=500&lines=PHP,+Laravel,+%26+C%23+Enthusiast;Building+Scalable+Backend+Systems;Turning+Coffee+into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D946EF&center=true&vCenter=true&width=500&lines=JavaScript+%26+TypeScript+Enthusiast;Crafting+Beautiful+Web+Interfaces;Turning+Coffee+into+Creative+UI" alt="Typing SVG" />
 
 </div>
 
@@ -23,8 +23,8 @@
       <b>LVL 85 - Fledgling Lore-Drake</b>
     </td>
     <td align="center">
-      <!-- API Streak Server Demolab (Anti-Pecah) -->
-      <img src="https://streak-stats.demolab.com/?user=argafgb&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <!-- API Streak Server Demolab (Bypass Cache v=2) -->
+      <img src="https://streak-stats.demolab.com/?user=argafgb&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
     </td>
     <td align="center">
       <!-- Gambar Charizard -->
@@ -42,7 +42,8 @@
 ### ⚔️ MY CODING ARSENAL
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,mysql,vscode,git,github" alt="Tech Stack" />
+  <!-- Ikon difokuskan ke teknologi Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vscode,git,github" alt="Tech Stack" />
 </div>
 
 <br>
@@ -50,27 +51,26 @@
 ### 📊 GITHUB STATISTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=argafgb&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argafgb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- GitHub Stats Vercel (Bypass Cache v=2) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=argafgb&show_icons=true&theme=radical&rank_icon=github&hide_border=true&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argafgb&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" width="48%" />
 </div>
 
 ---
 
-### 💻 `DEV_PROFILE.php`
+### 💻 `DEV_PROFILE.js`
 
-```php
-<?php
-
-class BackendEngineer {
-    public string $alias = 'arga';
-    public string $role = 'Web Developer';
-    public array $specialties = ['PHP', 'Laravel', 'C#', 'MySQL'];
+```javascript
+const frontendDeveloper = {
+    alias: 'arga',
+    role: 'Frontend Developer',
+    specialties: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React'],
     
-    public function getCurrentFocus(): string {
-        return "Building a Corporate Finance Dashboard";
-    }
+    getCurrentFocus() {
+        return "Building Interactive & Responsive Web Interfaces";
+    },
     
-    public function executeMission(): void {
-        echo "Architecting the future, one line of code at a time.";
+    executeMission() {
+        console.log("Crafting beautiful user experiences, one pixel at a time.");
     }
-}
+};
