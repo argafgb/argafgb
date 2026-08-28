@@ -1,56 +1,33 @@
 <div align="center">
 
 # ⚡ arga | argafgb // FRONTEND DEVELOPER
-### Crafting Interactive User Experiences • Specializing in Frontend Solutions
+### Crafting Interactive User Experiences
 
 <!-- Animasi Teks Berjalan -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D946EF&center=true&vCenter=true&width=500&lines=JavaScript+%26+TypeScript+Enthusiast;Crafting+Beautiful+Web+Interfaces;Turning+Creative+Ideas+into+UI" alt="Typing SVG" />
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-  
 ### 🐉 STREAK & CONTRIBUTIONS TRACKER
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" width="70" alt="Baby Dragon" />
-      <br>
-      <b>LVL 85 - Fledgling Lore-Drake</b>
-    </td>
-    <td align="center">
-      <!-- Format Markdown murni untuk mem-bypass error Camo -->
-      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=argafgb&theme=radical&hide_border=true)](https://github.com/argafgb)
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="110" alt="Big Dragon" />
-      <br>
-      <b>LVL 99 - Primordial Codex-Wyrm</b>
-    </td>
-  </tr>
-</table>
+<!-- Disusun berjejer ke samping tanpa tabel agar aman -->
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" width="70" alt="Baby Dragon" />
+<img src="https://streak-stats.demolab.com/?user=argafgb&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="100" alt="Big Dragon" />
 
-</div>
-
----
+<br><br>
 
 ### ⚔️ MY CODING ARSENAL
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vscode,git,github" alt="Tech Stack" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vscode,git,github" alt="Tech Stack" />
 
-<br>
+<br><br>
 
 ### 📊 GITHUB STATISTICS
 
-<div align="center">
-  <!-- Format Markdown murni untuk Stats -->
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=argafgb&show_icons=true&theme=radical&rank_icon=github&hide_border=true)](https://github.com/argafgb)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=argafgb&layout=compact&theme=radical&hide_border=true)](https://github.com/argafgb)
+<img src="https://github-readme-stats.vercel.app/api?username=argafgb&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argafgb&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+
 </div>
 
 ---
