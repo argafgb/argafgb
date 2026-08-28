@@ -16,7 +16,7 @@
 
 <br><br>
 
-### ⚔️ MY CODING ARSENAL
+### ⚔️ MY CODING ARArsenal
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vscode,git,github" alt="Tech Stack" />
 
@@ -24,10 +24,9 @@
 
 ### 📊 GITHUB STATISTICS
 
-<!-- Shields.io Badges: 100% Aman dan Anti-Blokir -->
+<!-- Shields.io & Komarev Badges: 100% Aman -->
 <img src="https://img.shields.io/github/followers/argafgb?label=Followers&style=for-the-badge&color=D946EF&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/argafgb?label=Stars&style=for-the-badge&color=D946EF&logo=github" alt="Stars" />
-<img src="https://img.shields.io/github/repos/argafgb?label=Repositories&style=for-the-badge&color=D946EF&logo=github" alt="Repos" />
+<img src="https://komarev.com/ghpvc/?username=argafgb&label=Profile%20Views&color=D946EF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
