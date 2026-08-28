@@ -17,16 +17,17 @@
 <table>
   <tr>
     <td align="center">
-      <!-- Gambar Charmander (Langsung Aktif) -->
+      <!-- Gambar Charmander -->
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" width="70" alt="Baby Dragon" />
       <br>
       <b>LVL 85 - Fledgling Lore-Drake</b>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=argafgb&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <!-- API Streak Server Demolab (Anti-Pecah) -->
+      <img src="https://streak-stats.demolab.com/?user=argafgb&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
     <td align="center">
-      <!-- Gambar Charizard (Langsung Aktif) -->
+      <!-- Gambar Charizard -->
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="110" alt="Big Dragon" />
       <br>
       <b>LVL 99 - Primordial Codex-Wyrm</b>
