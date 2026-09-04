@@ -1,11 +1,10 @@
 <div align="center">
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xobXdqbm1vczJ6MWQwZjVja3RvamwydGgzcnFwdm5wc2FqbzFjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F9JuwMyUv1aWWl2mkk/giphy.gif
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xobXdqbm1vczJ6MWQwZjVja3RvamwydGgzcnFwdm5wc2FqbzFjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F9JuwMyUv1aWWl2mkk/giphy.gif" alt="Welcome GIF" width="250" />
 
 # ⚡argafgb 
 ### Crafting Interactive User Experiences
 
-<!-- Animasi Teks Berjalan -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D946EF&center=true&vCenter=true&width=500&lines=JavaScript+%26+TypeScript+Enthusiast;Crafting+Beautiful+Web+Interfaces;Turning+Creative+Ideas+into+UI" alt="Typing SVG" />
 
 <br><br>
@@ -26,7 +25,6 @@ https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xobXdqbm1vczJ6MWQwZjVja3Rvamw
 
 ### 📊 GITHUB STATISTICS
 
-<!-- Shields.io & Komarev Badges: 100% Aman -->
 <img src="https://img.shields.io/github/followers/argafgb?label=Followers&style=for-the-badge&color=D946EF&logo=github" alt="Followers" />
 <img src="https://komarev.com/ghpvc/?username=argafgb&label=Profile%20Views&color=D946EF&style=for-the-badge" alt="Profile Views" />
 
