@@ -11,9 +11,9 @@
 
 ### 🐉 STREAK & CONTRIBUTIONS TRACKER
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/4.gif" width="70" alt="Baby Dragon" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweXp2Z3EzcmIxeTFyeW01bXdnMDl2b2tuenhpaW5udTdjMWM1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gBP0Url9gnOzEykv1T/giphy.gif" />
 <img src="https://streak-stats.demolab.com/?user=argafgb&theme=radical&hide_border=true" alt="GitHub Streak" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="100" alt="Big Dragon" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2dnhmbGVqc2hnNzMyOGJoYzUxZXNnN2duOHkxZ3BlZDIxMTJqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgV8Y7bDxsZDCP01eo/giphy.gif" />
 
 <br><br>
 
