@@ -38,7 +38,7 @@ I am a Web Developer based in Indonesia with a passion for building functional, 
 ### 📊 GitHub Tracker
 
 <div align="center">
-  <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweXp2Z3EzcmIxeTFyeW01bXdnMDl2b2tuenhpaW5udTdjMWM1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gBP0Url9gnOzEykv1T/giphy.gif" alt="Left GIF" />
-  <img height="130" src="https://streak-stats.demolab.com/?user=argafgb&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak" />
-  <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2dnhmbGVqc2hnNzMyOGJoYzUxZXNnN2duOHkxZ3BlZDIxMTJqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgV8Y7bDxsZDCP01eo/giphy.gif" alt="Right GIF" />
+  <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweXp2Z3EzcmIxeTFyeW01bXdnMDl2b2tuenhpaW5udTdjMWM1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gBP0Url9gnOzEykv1T/giphy.gif" alt="Shinobu Kocho" />
+  <img height="130" src="https://streak-stats.demolab.com/?user=argafgb&theme=dracula&hide_border=true" alt="argafgb GitHub Streak" />
+  <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDF1Yml4MWh0OW5hNnhyOWptZGUxZHNyajVwYmNxanFoZW5rN3I2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgV8Y7bDxsZDCP01eo/giphy.gif" alt="Nezuko Kamado" />
 </div>
