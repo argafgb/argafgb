@@ -11,9 +11,9 @@
 
 ### 🐉 STREAK & CONTRIBUTIONS TRACKER
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweXp2Z3EzcmIxeTFyeW01bXdnMDl2b2tuenhpaW5udTdjMWM1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gBP0Url9gnOzEykv1T/giphy.gif" height="130" alt="Left Giphy" />
-<img src="https://streak-stats.demolab.com/?user=argafgb&theme=radical&hide_border=true" alt="GitHub Streak" height="130" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2dnhmbGVqc2hnNzMyOGJoYzUxZXNnN2duOHkxZ3BlZDIxMTJqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgV8Y7bDxsZDCP01eo/giphy.gif" height="130" alt="Right Giphy" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweXp2Z3EzcmIxeTFyeW01bXdnMDl2b2tuenhpaW5udTdjMWM1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gBP0Url9gnOzEykv1T/giphy.gif" height="105" alt="Left Giphy" />
+<img src="https://streak-stats.demolab.com/?user=argafgb&theme=radical&hide_border=true" height="105" alt="GitHub Streak" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2dnhmbGVqc2hnNzMyOGJoYzUxZXNnN2duOHkxZ3BlZDIxMTJqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgV8Y7bDxsZDCP01eo/giphy.gif" height="105" alt="Right Giphy" />
 
 <br><br>
 
