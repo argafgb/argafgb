@@ -29,7 +29,7 @@ I am a Web Developer based in Indonesia with a passion for building functional, 
 <div align="center">
   <a href="https://skillicons.dev">
     <!-- Icon sudah di-update sesuai request (tambah C#, C++, Figma, Postman, hapus Blender/Unity) -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,tailwind,cs,cpp,figma,postman,vscode,git,github&perline=8" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,tailwind,cs,cpp,figma,postman,vscode,git,visual studio&perline=8" alt="Tech Stack"/>
   </a>
 </div>
 
