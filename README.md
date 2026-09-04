@@ -1,53 +1,52 @@
-<div align="center" style="background-color: #1e1e2e; padding: 30px; border-radius: 15px; border: 2px solid #ff4500;">
+<div align="center" style="background-color: #1e1e2e; padding: 30px; border-radius: 15px; border: 2px solid #D946EF;">
   
-  <img src="<div align="center" style="background-color: #1e1e2e; padding: 30px; border-radius: 15px; border: 2px solid #ff4500;">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xobXdqbm1vczJ6MWQwZjVja3RvamwydGgzcnFwdm5wc2FqbzFjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F9JuwMyUv1aWWl2mkk/giphy.gif" alt="Welcome GIF" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xobXdqbm1vczJ6MWQwZjVja3RvamwydGgzcnFwdm5wc2FqbzFjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F9JuwMyUv1aWWl2mkk/giphy.gif" width="250" alt="Welcome GIF"/>
 
-# ⚡argafgb 
-### You can call me Arga
+  <h1 align="center" style="color: #D946EF; margin: 10px 0;">Hi! I'm Arga Fabian Gibran 👨🏻‍💻</h1>
 
-<!-- Animasi Teks Berjalan -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D946EF&center=true&vCenter=true&width=500&lines=JavaScript+%26+TypeScript+Enthusiast;Crafting+Beautiful+Web+Interfaces;Turning+Creative+Ideas+into+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D946EF&center=true&vCenter=true&width=750&lines=Welcome+to+my+Profile!;I'm+a+Web+Developer;Building+Interactive+Web+Apps;Crafting+Beautiful+User+Interfaces;Turning+Ideas+into+Code" alt="Typing SVG" />
 
-<br><br>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=argafgb&color=D946EF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
-### 🐉 STREAK & CONTRIBUTIONS TRACKER
+</div>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweXp2Z3EzcmIxeTFyeW01bXdnMDl2b2tuenhpaW5udTdjMWM1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gBP0Url9gnOzEykv1T/giphy.gif" height="105" alt="Left Giphy" />
-<img src="https://streak-stats.demolab.com/?user=argafgb&theme=radical&hide_border=true" height="105" alt="GitHub Streak" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2dnhmbGVqc2hnNzMyOGJoYzUxZXNnN2duOHkxZ3BlZDIxMTJqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgV8Y7bDxsZDCP01eo/giphy.gif" height="105" alt="Right Giphy" />
+<br/>
 
-<br><br>
+### 🚀 About Me
 
-### ⚔️ MY CODING ARSENAL
+I am a Web Developer based in Indonesia with a passion for building functional, interactive, and problem-solving applications. I enjoy working on both the front-end user interfaces and the back-end logic, bringing creative ideas to life through code.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vscode,git,github" alt="Tech Stack" />
+- 💻 **Main Focus:** Full-Stack Web Development, focusing on seamless user experiences and robust architectures.
+- 📊 **Current Projects:** Developing a corporate finance dashboard application to streamline and track company income and expenses efficiently.
+- 🛠️ **Exploration & Experience:** Deep diving into PHP, Laravel (OOP, MVC, database relations), and local server environments like Laragon and XAMPP. Also exploring Cloud Computing and AI concepts.
 
-<br><br>
+---
 
-### 📊 GITHUB STATISTICS
+### ⚔️ Tech Stack & Arsenal
 
-<!-- Shields.io & Komarev Badges -->
-<img src="https://img.shields.io/github/followers/argafgb?label=Followers&style=for-the-badge&color=D946EF&logo=github" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=argafgb&label=Profile%20Views&color=D946EF&style=for-the-badge" alt="Profile Views" />
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,tailwind,cs,cpp,figma,postman,vscode,git,github&perline=8" alt="Tech Stack"/>
+  </a>
 </div>
 
 ---
 
-### 💻 `DEV_PROFILE.js`
+### 📊 GitHub Tracker
 
-```javascript
-const frontendDeveloper = {
-    alias: 'arga',
-    role: 'Frontend Developer',
-    specialties: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React'],
-    
-    getCurrentFocus() {
-        return "Building Interactive & Responsive Web Interfaces";
-    },
-    
-    executeMission() {
-        console.log("Crafting beautiful user experiences, one pixel at a time.");
-    }
-};
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweXp2Z3EzcmIxeTFyeW01bXdnMDl2b2tuenhpaW5udTdjMWM1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gBP0Url9gnOzEykv1T/giphy.gif" alt="Left GIF" />
+      </td>
+      <td align="center" valign="middle">
+        <img height="130" src="https://github-readme-streak-stats-eight.vercel.app/?user=argafgbi&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta&v=2" alt="streak graph" />
+      </td>
+      <td align="center" valign="middle">
+        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2dnhmbGVqc2hnNzMyOGJoYzUxZXNnN2duOHkxZ3BlZDIxMTJqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgV8Y7bDxsZDCP01eo/giphy.gif" alt="Right GIF" />
+      </td>
+    </tr>
+  </table>
+</div>
