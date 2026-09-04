@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D946EF&center=true&vCenter=true&width=750&lines=You+can+call+me+Arga;I'm+a+Web+Developer;Building+Interactive+Web+Apps;Crafting+Beautiful+User+Interfaces;Turning+Ideas+into+Code" alt="Typing SVG" />
 
   <br><br>
-  <!-- Ganti 'argafgb' kalau username lu beda -->
   <img src="https://komarev.com/ghpvc/?username=argafgb&color=D946EF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
@@ -16,11 +15,11 @@
 
 ### 🚀 About Me
 
-I am a Web Developer based in Indonesia with a passion for building functional, interactive, and problem-solving applications. I enjoy working on both the front-end user interfaces and the back-end logic, bringing creative ideas to life through code.
+I am a Web Developer based in Indonesia with a passion for building functional, interactive, and problem-solving applications. I focus mainly on the front-end to craft great user experiences, while also handling basic back-end logic to bring creative ideas to life through code.
 
-- 💻 **Main Focus:** Full-Stack Web Development, focusing on seamless user experiences and robust architectures.
+- 💻 **Main Focus:** Front-End Development & Basic Back-End logic, focusing on interactive web interfaces and seamless user experiences.
 - 📊 **Current Projects:** Developing a corporate finance dashboard application to streamline and track company income and expenses efficiently.
-- 🛠️ **Exploration & Experience:** Deep diving into PHP, Laravel (OOP, MVC, database relations), and local server environments like Laragon and XAMPP. Also exploring Cloud Computing and AI concepts.
+- 🛠️ **Exploration & Experience:** Working on front-end UI and basic back-end tasks using PHP, Laravel, PostgreSQL, and Drizzle ORM. Familiar with local server environments like Laragon and XAMPP.
 
 ---
 
@@ -28,8 +27,7 @@ I am a Web Developer based in Indonesia with a passion for building functional, 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- Icon sudah di-update sesuai request (tambah C#, C++, Figma, Postman, hapus Blender/Unity) -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,tailwind,cs,cpp,figma,postman,vscode,git,visual studio&perline=8" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,tailwind,cs,cpp,postgres,figma,postman,visualstudio,vscode,git,github&perline=9" alt="Tech Stack"/>
   </a>
 </div>
 
