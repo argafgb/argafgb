@@ -2,7 +2,7 @@
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xobXdqbm1vczJ6MWQwZjVja3RvamwydGgzcnFwdm5wc2FqbzFjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F9JuwMyUv1aWWl2mkk/giphy.gif" width="250" alt="Welcome GIF"/>
 
-  <h1 align="center" style="color: #D946EF; margin: 10px 0;">Hi! I'm Arga Fabian Gibran 👨🏻‍💻</h1>
+  <h1 align="center" style="color: #D946EF; margin: 10px 0;">Hi! I'm Arga Fabian Gibran </h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D946EF&center=true&vCenter=true&width=750&lines=You+can+call+me+Arga;I'm+a+Web+Developer;Building+Interactive+Web+Apps;Crafting+Beautiful+User+Interfaces;Turning+Ideas+into+Code" alt="Typing SVG" />
 
