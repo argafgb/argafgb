@@ -2,11 +2,12 @@
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xobXdqbm1vczJ6MWQwZjVja3RvamwydGgzcnFwdm5wc2FqbzFjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F9JuwMyUv1aWWl2mkk/giphy.gif" width="250" alt="Welcome GIF"/>
 
-  <h1 align="center" style="color: #D946EF; margin: 10px 0;">Hi! I'm Arga Fabian Gibran </h1>
+  <h1 align="center" style="color: #D946EF; margin: 10px 0;">Hi! I'm Arga Fabian Gibran 👨🏻‍💻</h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D946EF&center=true&vCenter=true&width=750&lines=You+ can+call+me+Arga;I'm+a+Web+Developer;Building+Interactive+Web+Apps;Crafting+Beautiful+User+Interfaces;Turning+Ideas+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D946EF&center=true&vCenter=true&width=750&lines=You+can+call+me+Arga;I'm+a+Web+Developer;Building+Interactive+Web+Apps;Crafting+Beautiful+User+Interfaces;Turning+Ideas+into+Code" alt="Typing SVG" />
 
   <br><br>
+  <!-- Ganti 'argafgb' kalau username lu beda -->
   <img src="https://komarev.com/ghpvc/?username=argafgb&color=D946EF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
@@ -27,6 +28,7 @@ I am a Web Developer based in Indonesia with a passion for building functional, 
 
 <div align="center">
   <a href="https://skillicons.dev">
+    <!-- Icon sudah di-update sesuai request (tambah C#, C++, Figma, Postman, hapus Blender/Unity) -->
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,tailwind,cs,cpp,figma,postman,vscode,git,github&perline=8" alt="Tech Stack"/>
   </a>
 </div>
@@ -42,6 +44,7 @@ I am a Web Developer based in Indonesia with a passion for building functional, 
         <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweXp2Z3EzcmIxeTFyeW01bXdnMDl2b2tuenhpaW5udTdjMWM1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gBP0Url9gnOzEykv1T/giphy.gif" alt="Left GIF" />
       </td>
       <td align="center" valign="middle">
+        <!-- Pakai link streak yang lu kasih -->
         <img height="130" src="https://github-readme-streak-stats-eight.vercel.app/?user=argafgbi&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta&v=2" alt="streak graph" />
       </td>
       <td align="center" valign="middle">
