@@ -16,7 +16,7 @@
 
 <br><br>
 
-### ⚔️ MY CODING ARArsenal
+### ⚔️ MY CODING ARSENAL
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vscode,git,github" alt="Tech Stack" />
 
