@@ -1,107 +1,52 @@
-<div align="center" style="background-color: #1e1e2e; padding: 30px; border-radius: 15px; border: 2px solid #ff4500;">
-  
-  <img src="<div align="center" style="background-color: #1e1e2e; padding: 30px; border-radius: 15px; border: 2px solid #ff4500;">
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d3dGttcjZ1anZ0eWh3d2NzZ3l3YW81ZzFyZ2xnbG9mNWpoYm90NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9ZNuRXFmFQqNNqwelG/giphy.gif" width="250"/>
-
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E040FB&center=true&vCenter=true&width=750&lines=Haiiii!+:3+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;My+Name+is+Farras;I'm+a+Digital+Creator;Front-End+Developer;Graphic+Designer;3D+Modeler+%26+Web+Enthusiast" alt="Typing SVG" />
-
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=frszi&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
-<br/>
-
-### 🏴‍☠️ About Me
-
-I am a student at SMK Negeri 8 Jakarta, majoring in Software Engineering. I specialize in UI/UX design, web development, and 3D modeling, and I also have an interest in graphic design, photography, and videography.
-
-- 🎨 **Main Focus:** UI/UX Design, Front-End Development, and 3D Modelling.
-- 💻 **Exploration & Experience:** Web Development (including JS DOM manipulation, PHP sessions/forms), alongside a basic understanding of databases and desktop programming.
-- 🛠️ **Tools of the Trade:** Experienced in using Blender for 3D visualization.
-
----
-
-### ⚓ Tech Stack & Favorite Tools
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,blender,figma,ps,ai,unity,postgresql,python&perline=9" alt="Tech Stack"/>
-  </a>
-</div>
 
----
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xobXdqbm1vczJ6MWQwZjVja3RvamwydGgzcnFwdm5wc2FqbzFjaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F9JuwMyUv1aWWl2mkk/giphy.gif" alt="Welcome GIF" width="250" />
 
-### 📊 GitHub Bounty (Stats)
+# ⚡argafgb 
+### You can call me Arga
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d3dGttcjZ1anZ0eWh3d2NzZ3l3YW81ZzFyZ2xnbG9mNWpoYm90NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bH4eKgxt0KypW/giphy.gif" alt="Left GIF" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=frszi&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta&v=2" height="140" alt="streak graph" />
-      </td>
-      <td align="center" valign="middle">
-        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d3dGttcjZ1anZ0eWh3d2NzZ3l3YW81ZzFyZ2xnbG9mNWpoYm90NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/421g4BNWcwqV7I8FUQ/giphy.gif" alt="Right GIF" />
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Animasi Teks Berjalan -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D946EF&center=true&vCenter=true&width=500&lines=JavaScript+%26+TypeScript+Enthusiast;Crafting+Beautiful+Web+Interfaces;Turning+Creative+Ideas+into+UI" alt="Typing SVG" />
 
-<br/>
+<br><br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/4xtVSlNMOmHK0/giphy.gif" alt="One Piece Crew" width="350" />
-</div>" width="250"/>
+### 🐉 STREAK & CONTRIBUTIONS TRACKER
 
-  <h1 align="center" style="color: #511D66; margin: 10px 0;">Hi! Im Arga </h1>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweXp2Z3EzcmIxeTFyeW01bXdnMDl2b2tuenhpaW5udTdjMWM1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gBP0Url9gnOzEykv1T/giphy.gif" height="105" alt="Left Giphy" />
+<img src="https://streak-stats.demolab.com/?user=argafgb&theme=radical&hide_border=true" height="105" alt="GitHub Streak" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2dnhmbGVqc2hnNzMyOGJoYzUxZXNnN2duOHkxZ3BlZDIxMTJqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgV8Y7bDxsZDCP01eo/giphy.gif" height="105" alt="Right Giphy" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E040FB&center=true&vCenter=true&width=750&lines=Haiiii!+:3+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;My+Name+is+Farras;I'm+a+Digital+Creator;Front-End+Developer;Graphic+Designer;3D+Modeler+%26+Web+Enthusiast" alt="Typing SVG" />
-
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=frszi&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
-<br/>
-
-
----
+<br><br>
 
 ### ⚔️ MY CODING ARSENAL
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,blender,figma,ps,ai,unity,postgresql,python&perline=9" alt="Tech Stack"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vscode,git,github" alt="Tech Stack" />
+
+<br><br>
+
+### 📊 GITHUB STATISTICS
+
+<!-- Shields.io & Komarev Badges -->
+<img src="https://img.shields.io/github/followers/argafgb?label=Followers&style=for-the-badge&color=D946EF&logo=github" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=argafgb&label=Profile%20Views&color=D946EF&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
 ---
 
-### 📊 GitHub Bounty (Stats)
+### 💻 `DEV_PROFILE.js`
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNweXp2Z3EzcmIxeTFyeW01bXdnMDl2b2tuenhpaW5udTdjMWM1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gBP0Url9gnOzEykv1T/giphy.gif" alt="Left GIF" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=frszi&theme=dracula&hide_border=false&border_radius=5&order=3&timezone=Asia/Jakarta&v=2" height="140" alt="streak graph" />
-      </td>
-      <td align="center" valign="middle">
-        <img height="130" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl2dnhmbGVqc2hnNzMyOGJoYzUxZXNnN2duOHkxZ3BlZDIxMTJqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UgV8Y7bDxsZDCP01eo/giphy.gif" alt="Right GIF" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/4xtVSlNMOmHK0/giphy.gif" alt="One Piece Crew" width="350" />
-</div>
+```javascript
+const frontendDeveloper = {
+    alias: 'arga',
+    role: 'Frontend Developer',
+    specialties: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'React'],
+    
+    getCurrentFocus() {
+        return "Building Interactive & Responsive Web Interfaces";
+    },
+    
+    executeMission() {
+        console.log("Crafting beautiful user experiences, one pixel at a time.");
+    }
+};
