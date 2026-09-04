@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ arga | argafgb // FRONTEND DEVELOPER
+# ⚡argafgb 
 ### Crafting Interactive User Experiences
 
 <!-- Animasi Teks Berjalan -->
