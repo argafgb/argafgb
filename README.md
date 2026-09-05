@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=D946EF&center=true&vCenter=true&width=750&lines=You+can+call+me+Arga;I'm+a+Web+Developer;Building+Interactive+Web+Apps;Crafting+Beautiful+User+Interfaces;Turning+Ideas+into+Code" alt="Typing SVG" />
 
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=argafgb&color=D946EF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/argafgbrn) 
 
 </div>
 
