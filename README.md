@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #1e1e2e; padding: 30px; border-radius: 15px; border: 2px solid #D946EF;">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRqeHhmZnhuY3pzdjhsdXM4MjIxaDRsbmt2eWk3dzBpZXliMDdmOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ocxu27e5jb8HoUBWcb/giphy.gif" width="100" alt="Welcome GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRqeHhmZnhuY3pzdjhsdXM4MjIxaDRsbmt2eWk3dzBpZXliMDdmOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ocxu27e5jb8HoUBWcb/giphy.gif" width="250" alt="Welcome GIF"/>
 
   <h1 align="center" style="color: #D946EF; margin: 10px 0;">Hi! I'm Arga Fabian Gibran </h1>
 
