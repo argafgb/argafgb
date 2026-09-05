@@ -9,7 +9,6 @@
   <br><br>
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/argafgbrn) 
 
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=argafgb&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=
 
 </div>
 
